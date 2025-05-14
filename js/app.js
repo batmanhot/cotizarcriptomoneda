@@ -1,3 +1,5 @@
+// https://developers.coindesk.com/documentation/legacy/Price/SingleSymbolPriceEndpoint
+
 // 
 const criptomonedasSelect = document.querySelector('#criptomonedas');
 const monedaSelect = document.querySelector('#moneda');
